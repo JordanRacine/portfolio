@@ -8,9 +8,9 @@ Ever since I was little I loved to draw and color, I was the kid who made their 
 
 
 
-- **[jordankracine@gmail.com](mailto:jordankracine@gmail.com)
-- [GitHub](https://github.com/jordanracine)
-- [Instagram](www.instagram.com/jordanracine)
--
+**[jordankracine@gmail.com](mailto:jordankracine@gmail.com)
+ [GitHub](https://github.com/jordanracine)
+[Instagram](https://www.instagram.com/jordanracine/?hl=en)
+
 
 © Jordan Racine
