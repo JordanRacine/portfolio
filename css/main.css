@@ -9,15 +9,17 @@ html {
 
 
 .bg {
+  font-family: 'Courgette', cursive;
   height:100vh;
   width: 100vw;
   margin: 0;
-  background-image: url("../images/adventure.jpg");
+  background-image: url("../images/adventure1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   z-index: 0;
 }
+
 
 .img-flex {
   padding: .5em;
@@ -83,7 +85,7 @@ a {
 
 .projects {
   font-family: 'Raleway', sans-serif;
-  font-size: 40px;
+  font-size: 30px;
   color: white;
   position: absolute;
   top: 50%;
@@ -157,4 +159,41 @@ p {
   font-weight: 500;
   line-height: 2em;
   color: #777;
+}
+
+.project-title {
+  color: #f7f7f7;
+}
+
+.preview-overlay {
+  background-color: rgba(12, 12, 12, 0);
+  transition: background-color .25s;
+}
+
+.work-group .unit:hover .preview-overlay {
+  background-color: rgba(12, 12, 12, .75);
+}
+
+.projects {
+  color: rgba(0, 0, 0, 0);
+  transition: background-color .25s;
+}
+
+.work-group .unit:hover .projects {
+  color: rgba(225, 225, 225, 1);
+}
+
+.info {
+  text-align: center;
+  font-size: 20px;
+  color: #D8D8D8;
+}
+
+@media only screen and (min-width: 25em) {
+
+.logo {
+  max-width: 100%;
+}
+
+
 }
