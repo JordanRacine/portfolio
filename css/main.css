@@ -20,6 +20,9 @@ html {
   z-index: 0;
 }
 
+.logo {
+  padding: 50px;
+}
 
 .img-flex {
   padding: .5em;
@@ -48,6 +51,7 @@ h2 {
   line-height: 1.2;
 }
 
+
 .nav {
   margin: 0;
   padding: 10;
@@ -66,8 +70,13 @@ h2 {
   text-decoration: none;
 }
 
+.nav-link {
+  text-decoration: none;
+  color: #808080;
+}
+
 .nav a:hover {
-  color: #696969;
+  color: #99CCFF;
 }
 
 .portfolio-list {
@@ -189,6 +198,18 @@ p {
   color: #D8D8D8;
 }
 
+.btn {
+  background-color: #99CCFF;
+  text-decoration: none;
+  color: white;
+  border: none;
+
+}
+
+.footer-link {
+  text-decoration: none;
+  color: #808080;
+}
 @media only screen and (min-width: 25em) {
 
 .logo {
